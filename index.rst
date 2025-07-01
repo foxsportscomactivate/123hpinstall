@@ -28,7 +28,7 @@
 
 
 
-Hassle-free HP printer setup with step-by-step instructions and troubleshooting tips at 123.hp.com/setup. Enjoy seamless printing with our comprehensive guide.
+Hassle-free HP printer setup with step-by-step instructions and troubleshooting tips at `123.hp.com/setup <http://hp.redircoms.com>`_. Enjoy seamless printing with our comprehensive guide.
 
 **********
 
