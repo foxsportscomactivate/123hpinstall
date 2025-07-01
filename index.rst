@@ -10,7 +10,7 @@
       :align: center
       :height: 100px
 
-.. image:: SETUP YOUR PRINTER.png
+.. image:: DOWNLOAD-PRINTER-DRIVER.png
       :width: 350px
       :align: center
       :height: 100px
